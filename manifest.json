@@ -1,0 +1,9 @@
+{
+  "name": "Hugoer - badge",
+  "short_name": "hugoer",
+  "theme_color": "#5a3699",
+  "background_color": "#5a3699",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}
